@@ -2,6 +2,11 @@
 
 The type definition for [`plivo`](https://github.com/plivo/plivo-node)
 
+How to install for usage.
+```bash
+typings install plivo=github:dublicator/typed-plivo/index.d.ts --global --save
+```
+
 ## LICENSE
 
 MIT
